@@ -1,6 +1,8 @@
 
 # covid19_one_hundred_million_unique_tweets
 
+## Last Updated: June 1st, 2020
+
 ## Data Description
 _______________________
 
@@ -28,7 +30,7 @@ NOTES: Tweets are **unique** in the sense that:
 
 ## Statistics 
 
-As of 05-15-2020 there are a total of 133,357,657 tweet IDs.
+As of 06-01-2020 there are a total of 147,003,058 tweet IDs.
 
 
 ![tweets_by_date](figures/tweets_by_date.png)
@@ -74,3 +76,6 @@ ____________________
 - tweets by coordinates, by day
 - `floor_date` instead of `round_date`
 - label tweet ids by language to allow for granular filtering
+
+
+
