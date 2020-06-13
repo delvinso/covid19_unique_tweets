@@ -1,7 +1,7 @@
 
 # covid19_one_hundred_million_unique_tweets
 
-## Last Updated: June 1st, 2020
+## Last Updated: June 11th, 2020
 
 ## Data Description
 _______________________
