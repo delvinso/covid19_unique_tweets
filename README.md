@@ -63,7 +63,9 @@ To obtain all metadata associated with a tweet, the tweet IDs need to be hydrate
 __________
 
 * March 16th 00:00 - 07:00 UTC (dig through backups?)
-
+* July 7th 00:00 - 05:00 UTC
+* July 9th 00:00 - 10:00 UTC
+* July 12th 00:00 - 10:00 UTC
 
 ## Contact
 __________
