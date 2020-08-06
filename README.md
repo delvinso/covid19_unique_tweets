@@ -1,7 +1,7 @@
 
 # covid19_one_hundred_million_unique_tweets
 
-## Last Updated: July 27th, 2020
+## Last Updated: August 5th, 2020
 
 ## Data Description
 _______________________
@@ -67,6 +67,8 @@ __________
 * July 9th 00:00 - 10:00 UTC
 * July 12th 00:00 - 10:00 UTC
 * July 19th 00:00 - 10:15 UTC
+* July 27th 00:00 - 05:00 UTC
+* July 30th 00:00 - 14:00 UTC
 ## Contact
 __________
 
