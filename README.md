@@ -1,14 +1,14 @@
 
 # covid19_one_hundred_million_unique_tweets
 
-## Last Updated: August 7th, 2020
+ Last Updated: August 23rd, 2020
 
 ## Data Description
 _______________________
 
-Tweets related to the coronavirus outbreak have been collected from Twitter's search API nightly since January 17th, 2020. As of 04/20/2020, over 100 000 000 **unique** tweets have been collected. 
+Tweets related to the coronavirus outbreak have been collected from Twitter's search API nightly since January 17th, 2020. As of 08/14/2020, there are now over 200 000 000 tweets!
 
-The raw tweet data can't be released, and per Twitter's [developer terms](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases), only tweet IDs are released. 
+Raw tweets are unable to be released, and per Twitter's [developer terms](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases), only tweet IDs are available.
 
 To faciliate research without having to hydrate every single tweet, the following have been generated and included in their respective folders, and will continue to be generated for **each day**:
 
@@ -30,8 +30,8 @@ NOTES: Tweets are **unique** in the sense that:
 
 ## Statistics 
 
-As of 06-01-2020 there are a total of 147,003,058 tweet IDs.
-
+* As of 04/20/2020, over 100 000 000 **unique** tweets have been collected.
+* 08/14/2020, broke 200 000 000 tweets.
 
 ![tweets_by_date](figures/tweets_by_date.png)
 
@@ -42,6 +42,7 @@ Language Breakdown:
 
 ## Notes 
 _______________
+
 
 May 17, 2020
 
