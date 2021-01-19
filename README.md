@@ -1,10 +1,10 @@
 
-# covid19n_unique_tweets
+# covid19_unique_tweets
 
 ## Data Description
 _______________________
 
-Tweets related to the coronavirus outbreak have been collected from Twitter's search API nightly since January 17th, 2020. As of 08/14/2020, there are now over 200 000 000 tweets!
+Tweets related to the coronavirus outbreak have been collected from Twitter's search API nightly since January 17th, 2020. As of 01/17/2021, there are now over 300 000 000 tweets!
 
 Raw tweets are unable to be released, and per Twitter's [developer terms](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases), only tweet IDs are available.
 
@@ -30,6 +30,7 @@ NOTES: Tweets are **unique** in the sense that:
 
 * As of 04/20/2020, over 100 000 000 **unique** tweets have been collected.
 * 08/14/2020, broke 200 000 000 tweets.
+* 12/27/2020, broke 300 000 000 tweets.
 
 ![tweets_by_date](figures/tweets_by_date.png)
 
@@ -44,7 +45,6 @@ _______________
 
 May 17, 2020
 
-* January 17th - April 20th, broke 100 000 000 tweets
 * On February 11th, the search query was changed to to include the official WHO designation of the virus as 'covid-19'.
 * To better facilitate the pipelining process, python and thus tweepy was considered but after a few nights spent with the package, it did not appear to be utilizing the increased rate limit of a bearer token. Given the escalating situation and the corresponding increase in the number of tweets, I stuck with `rtweet`, which did honour the rate limit.
 
@@ -77,7 +77,6 @@ For any questions or suggestions please create an issue or contact me at so.delv
 ## TODO
 ____________________
 - tweets by coordinates, by day
-- `floor_date` instead of `round_date`
 - label tweet ids by language to allow for granular filtering
 
 
